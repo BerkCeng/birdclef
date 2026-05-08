@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+pillow
+opencv-python
+librosa
+soundfile
+streamlit
